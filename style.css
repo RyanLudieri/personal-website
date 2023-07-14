@@ -1,0 +1,438 @@
+.header{
+    background-color: white;
+    height: 32px;
+}
+
+.header a{
+    font-size: 25px;
+    font-family: 'Caprasimo', cursive;;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 25px;
+}
+
+.header span{
+    color: #90caf9;
+}
+
+
+section{
+    height: 538px;
+}
+
+.menu{
+    list-style: none;
+    display: flex;
+    float: right;
+    position: relative;
+    bottom: 88px;
+    right: 20px;
+}
+
+.menu li{
+    margin-right: 30px;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: black;
+}
+
+.menu li a:hover{
+    color: #90caf9;
+    border-bottom: solid #90caf9 2px;
+}
+
+#home{
+    background: whitesmoke;
+}
+
+#home h1{
+    font-size: 30px;
+    width: 600px;
+    position: relative;
+    top: 220px;
+    left: 250px;
+}
+
+#home p{
+    font-style: italic;
+    font-size: 15px;
+    width: 600px;
+    position: relative;
+    top: 220px;
+    left: 250px;
+}
+
+.home-image{
+    height: 560px;
+    width: 560px;
+    position: relative;
+    float: right;
+    margin-right: 260px;
+    left: 430px;
+}
+
+#sobre{
+    background: white;
+}
+
+#sobre h2{
+    font-size: 60px;
+    width: 200px;
+    position: relative;
+    left: 1200px;
+    top: 70px;
+}
+
+#sobre p{
+    font-style: italic;
+    font-size: 20px;
+    width: 400px;
+    position: relative;
+    top: 40px;
+    float: right;
+    margin-right: 320px;
+}
+
+.sobre-image{
+    height: 500px;
+    position: relative;
+    bottom: 160px;
+    left: 200px;
+}
+
+#cards{
+    background: whitesmoke;
+}
+
+.first-image{
+    height: 200px;
+    width: 200px;
+    left: 580px;
+    top: 100px;
+    position: relative;
+}
+
+.second-image{
+    height: 200px;
+    width: 200px;
+    left: 1000px;
+    bottom: 222px;
+    position: relative;
+}
+
+.card1 h3{
+    width: 70px;
+    font-size: 20px;
+    position: relative;
+    top: 90px;
+    left: 620px;
+}
+
+.card2 h3{
+    width: 70px;
+    font-size: 20px;
+    position: relative;
+    left: 1047px;
+    bottom: 203px;
+
+}
+
+.interesses{
+    position: relative;
+    left: 20px;
+    height: 50px;
+    font-family: 'Caprasimo', cursive;;
+}
+
+
+.header h3{
+    position: relative;
+    left: 1600px;
+    bottom: 70px;
+}
+
+.header h3 a{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.header h3 a:hover{
+    color: #90caf9;
+    border-bottom: solid #90caf9 2px;
+}
+
+.interesses span{
+    color: #90caf9;
+}
+
+.jogos{
+    background: whitesmoke;
+    height: 750px;
+}
+
+.jogos h2{
+    font-size: 40px;
+    position: relative;
+    left: 750px;
+    top: 70px;
+}
+
+.jogos img{
+    position: relative;
+    left: 600px;
+    top: 90px;
+}
+
+.jogos p{
+    font-size: 20px;
+    font-family: 'Caprasimo', cursive;;
+    width: 400px;
+    position: relative;
+    left: 710px;
+    top: 100px;
+}
+
+.filmes{
+    height: 1000px;
+}
+
+.filmes h2{
+    font-size: 40px;
+    position: relative;
+    left: 810px;
+    top: 80px;
+}
+
+.filmes img{
+    width: 500px;
+    position: relative;
+    left: 645px;
+    top: 90px;
+}
+
+.filmes p{
+    font-size: 20px;
+    font-family: 'Caprasimo', cursive;;
+    width: 400px;
+    position: relative;
+    left: 700px;
+    top: 105px;
+}
+
+.esportes{
+    background: whitesmoke;
+    height: 800px;
+}
+
+.esportes h2{
+    font-size: 40px;
+    position: relative;
+    left: 780px;
+    top: 80px;
+}
+
+.butler{
+    width: 400px;
+    position: relative;
+    left: 490px;
+    top: 75px;
+}
+
+.cruzeiro{
+    width: 320px;
+    height: 270px;
+    position: relative;
+    top: 75px;
+    left: 500px;
+}
+
+.esportes p{
+    font-size: 20px;
+    font-family: 'Caprasimo', cursive;;
+    width: 500px;
+    position: relative;
+    top: 130px;
+    left: 670px;
+}
+
+.musica{
+    background: white;
+    height: 1000px;
+}
+
+.musica h2{
+    font-size: 40px;
+    position: relative;
+    left: 800px;
+    top: 50px;
+}
+
+.lp{
+    width: 445px;
+    position: relative;
+    left: 505px;
+    top: 50px;
+}
+
+.engenheiros{
+    position: relative;
+    left: 500px;
+    top: 50px;
+}
+
+.musica p{
+    font-size: 20px;
+    font-family: 'Caprasimo', cursive;;
+    width: 400px;
+    position: relative;
+    left: 708px;
+    top: 70px;
+}
+
+.musica ul{
+    font-size: 20px;
+    font-family: 'Caprasimo', cursive;;
+    position: relative;
+    left: 700px;
+    top: 65px;
+}
+
+.formacao{
+    position: relative;
+    left: 20px;
+    height: 50px;
+    font-family: 'Caprasimo', cursive;;
+}
+
+
+.voltar{
+    position: relative;
+    left: 1600px;
+    bottom: 70px;
+}
+
+.voltar a{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.voltar a:hover{
+    color: #90caf9;
+    border-bottom: solid #90caf9 2px;
+}
+
+.formacao span{
+    color: #90caf9;
+}
+
+.campus{
+    font-size: 40px;
+    position: relative;
+    left: 560px;
+}
+
+.foto-unifal{
+    position: relative;
+    left: 530px;
+    width: 800px;
+}
+
+.unifal{
+    font-family: 'Caprasimo', cursive;;
+    font-size: 30px;
+    width: 500px;
+    position: relative;
+    left: 690px;
+}
+
+.escola{
+    font-size: 40px;
+    position: relative;
+    left: 590px;
+}
+
+.foto-cec{
+    position: relative;
+    left: 530px;
+    width: 800px;
+}
+
+.cec{
+    font-family: 'Caprasimo', cursive;;
+    font-size: 30px;
+    width: 500px;
+    position: relative;
+    left: 690px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: center;
+    color: #888;
+    font-size: 14px;
+  }
+
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .footer-left p {
+    margin: 0;
+    font-weight: bold;
+  }
+
+  .footer-right p {
+    margin: 0;
+  }
+
+  .footer-right a {
+    color: #333;
+  }
+
+  .footer-bottom {
+    margin-top: 10px;
+  }
+
+
+
+
+
+
+
